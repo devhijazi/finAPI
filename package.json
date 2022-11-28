@@ -1,0 +1,15 @@
+{
+  "name": "finAPI",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devhijazi/finAPI.git",
+  "author": "Gabriel <hijazi.root@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
